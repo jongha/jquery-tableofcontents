@@ -1,0 +1,22 @@
+{
+    "name": "tableofcontents",
+    "title": "jQuery table of contents",
+    "description": "Support input control for email address",
+    "version": "0.0.1",
+    "author": {
+        "name": "Jong-Ha Ahn",
+        "email": "jongha.ahn@mrlatte.net",
+        "url": "http://www.mrlatte.net"
+    },
+    "dependencies": {
+        "jquery": ">=1.7.0"
+    },    
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/jongha/jquery.tableofcontents/blob/master/LICENSE"}
+    ],
+    "keywords": ["email", "address", "input"],
+    "bugs": "https://github.com/jongha/jquery.tableofcontents/issues",
+    "homepage": "https://github.com/jongha/jquery.tableofcontents",
+    "docs": "https://github.com/jongha/jquery.tableofcontents"
+}
