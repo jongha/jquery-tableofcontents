@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/jongha/jquery-tableofcontents/badge.png)](https://coveralls.io/r/jongha/jquery-tableofcontents)
 [![Dependency Status](https://gemnasium.com/jongha/jquery-tableofcontents.png)](https://gemnasium.com/jongha/jquery-tableofcontents)
 
-A table of contents, usually headed simply "Contents" and abbreviated informally as TOC, is a list of the parts of a book or document organized in the order in which the parts appear. jQuery-TableOfContents is jquery plugin for table of content. I need an overview table about current page when I write long size document. There is a plugin that can help you.
+A table of contents, usually headed simply "Contents" and abbreviated informally as TOC, is a list of the parts of a book or document organized in the order in which the parts appear. jQuery-TableOfContents is jquery plugin for table of content. I need an overview table about current page when I write long size document. This is a plugin that can help you.
 
 ## `Usage`
 
