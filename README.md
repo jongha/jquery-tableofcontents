@@ -7,7 +7,7 @@ A table of contents, usually headed simply "Contents" and abbreviated informally
 
 ## `Usage`
 
-Just simple to use.
+Absolutely simple to use.
 
 ```
 $("#id").tableofcontents({ id: "#target" });
