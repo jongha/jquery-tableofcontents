@@ -2,7 +2,7 @@
     "name": "tableofcontents",
     "title": "jQuery table of contents",
     "description": "A table of contents, usually headed simply \"Contents\" and abbreviated informally as TOC, is a list of the parts of a book or document organized in the order in which the parts appear. jQuery-TableOfContents is jquery plugin for table of content. I need an overview table about current page when I write long size document. This is a plugin that can help you.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": {
         "name": "Jong-Ha Ahn",
         "email": "jongha.ahn@mrlatte.net",
@@ -10,13 +10,13 @@
     },
     "dependencies": {
         "jquery": ">=1.7.0"
-    },    
+    },
     "licenses": [{
         "type": "MIT",
-        "url": "https://github.com/jongha/jquery.tableofcontents/blob/master/LICENSE"}
+        "url": "https://github.com/jongha/jquery-tableofcontents/blob/master/LICENSE"}
     ],
     "keywords": ["email", "address", "input"],
-    "bugs": "https://github.com/jongha/jquery.tableofcontents/issues",
-    "homepage": "https://github.com/jongha/jquery.tableofcontents",
-    "docs": "https://github.com/jongha/jquery.tableofcontents"
+    "bugs": "https://github.com/jongha/jquery-tableofcontents/issues",
+    "homepage": "https://github.com/jongha/jquery-tableofcontents",
+    "docs": "https://github.com/jongha/jquery-tableofcontents"
 }
