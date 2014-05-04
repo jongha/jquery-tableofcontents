@@ -5,7 +5,7 @@
 
 A table of contents, usually headed simply "Contents" and abbreviated informally as TOC, is a list of the parts of a book or document organized in the order in which the parts appear. jQuery-TableOfContents is jquery plugin for table of content. I need an overview table about current page when I write long size document. This is a plugin that can help you.
 
-## `Usage`
+## Usage
 
 Absolutely simple to use.
 
@@ -19,6 +19,6 @@ With style of element.
 $("#id").tableofcontents({ id: "#target", css: { "width": "100px" });
 ```
 
-## `License`
+## License
 
 jQuery-TableOfContents is available under the terms of the [MIT License](https://github.com/jongha/jquery-tableofcontents/blob/master/LICENSE).
