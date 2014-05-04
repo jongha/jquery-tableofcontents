@@ -21,4 +21,4 @@ $("#id").tableofcontents({ id: "#target", css: { "width": "100px" });
 
 ## License
 
-jQuery-TableOfContents is available under the terms of the [MIT License](https://github.com/jongha/jquery-tableofcontents/blob/master/LICENSE).
+jQuery-TableOfContents is available under the terms of the MIT License.
